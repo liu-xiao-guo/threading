@@ -1,0 +1,17 @@
+{
+    "name": "threading.liu-xiao-guo",
+    "description": "description of threading",
+    "architecture": "all",
+    "title": "threading",
+    "hooks": {
+        "threading": {
+            "apparmor": "threading.apparmor",
+            "desktop":  "threading.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

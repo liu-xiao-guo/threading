@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=threading
+Exec=qmlscene $@ Main.qml
+Icon=threading.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
